@@ -1,8 +1,8 @@
-# Android Prework - *CodepathMail*
+# Android Project 2 - *WishList*
 
 Submitted by: **Nathaniel Rodriguez**
 
-**CodepathMail** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**WishList** is a wishlist app that helps the user keep track of what they want to buy.
 
 Time spent: **6** hours spent in total
 
@@ -10,18 +10,24 @@ Time spent: **6** hours spent in total
 
 The following **required** functionality is completed:
 
-* [2] Every thing needed to pass the LAB 2
-
+- [x] **User can add an item to their wishlist**
+- [x] **User can see their list of items based on previously inputted items**
 
 The following **optional** features are implemented:
 
-* [x] List anything else that you can get done to improve the app functionality!
+- [x] Wishlist app is 🎨 **customized** 🎨
+- [ ] User can delete an item by long pressing on the item
+- [ ] User can open an item's URL by clicking on the item
+
+The following **additional** features are implemented:
+
+* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='WKNEW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -45,6 +51,10 @@ Describe any challenges encountered while building the app.
         http://www.apache.org/licenses/LICENSE-2.0
 
     Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
